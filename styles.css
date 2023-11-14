@@ -350,3 +350,16 @@ Questions
 .show-text .plus-icon {
   display: none;
 }
+
+footer div{
+  padding: 10px 15px 10px 15px;
+  margin-bottom: 20px;
+  background-color: white;
+  line-height:40px;
+  display:inline-block;
+  border-radius: 15px;
+}
+
+footer{
+  text-align: center;
+}
