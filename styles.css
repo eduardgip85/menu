@@ -293,6 +293,7 @@ Questions
   max-width: var(--fixed-width);
 }
 .question {
+  margin: 10px;
   background: var(--clr-white);
   border-radius: var(--radius);
   box-shadow: var(--light-shadow);
